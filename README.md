@@ -1,6 +1,6 @@
-<h1 align="center">Olá mundo! 👋 console.log('Raul Muniz');</h1>
+<h1 align="center">👋 Olá Mundo! console.log('Raul Muniz');</h1>
 
-<h2 align="center">Olá! Eu me chamo Raul Muniz e sou Desenvolvedor Front-End!</h2><br>
+<h2 align="center">Desenvolvedor Front-End</h2><br>
 
 <h1 align="left">Sobre Mim:</h1>
 
