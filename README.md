@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá Mundo! console.log('Raul Sousa Muniz');</h1>
 
-<h2 align="center">Desenvolvedor Fullstack</h2><br>
+<h2 align="center">Desenvolvedor</h2><br>
 
 <h1 align="left">Sobre Mim:</h1>
 
-- 🌱 **Estou estudando as linguagens de programação: JavaScript & TypeScript;**
-- 🌱 **Estou estudando o framework de desenvolvimento: Angular & Node.js**
+- 🌱 **Estou estudando as linguagens de programação: JavaScript e Python;**
+- 🌱 **Estou estudando o framework de desenvolvimento: Node.js**
 
 <h2 align="left">Minhas habilidades:</h2>
 
