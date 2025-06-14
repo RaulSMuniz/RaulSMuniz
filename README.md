@@ -2,6 +2,10 @@
 
 ###
 
+<h2 align="center">Sobre Mim</h2>
+Olá! Meu nome é Raul e podemos dizer que tive uma jornada meio excêntrica, eu já passei por diversas áreas na minha vida: já fui escritor, já fiz Direito... Mas foi na área de Tecnologia que me encontrei e me apaixonei. Tendo passando também por Desenvolvimento Front-end e Back-end, eu acabei me achando na área de Dados, tendo me fascinado por Data Science, Machine Learning e IA, sendo esses meus focos de estudo. </br>
+Atualmente, trabalho como estagiário de Analista de TI, desenvolvendo automações, treinamento de IA e sites através de ferramentas low-code, além de participar na análise de especificações técnicas dos projetos a serem desenvolvidos. 
+
 <h2 align="center">Tecnologias</h2>
 
 ###
