@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Sobre Mim | Future AI Engineer</h2>
+<h2 align="center">Sobre Mim </h2>
 
 Minha jornada profissional é marcada pela **adaptação e foco em soluções**. Embora tenha explorado áreas diversas, minha paixão se consolidou na **Tecnologia**, especificamente em **Inteligência Artificial (IA)**, **Machine Learning** e **Ciência de Dados**. Meu objetivo é aplicar o desenvolvimento de software para criar **soluções inteligentes e escaláveis**.
 
