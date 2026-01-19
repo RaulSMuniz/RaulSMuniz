@@ -4,13 +4,13 @@
 
 <h2 align="center">Sobre Mim </h2>
 
-Minha jornada profissional é marcada pela **adaptação e foco em soluções**. Embora tenha explorado áreas diversas, minha paixão se consolidou na **Tecnologia**, especificamente em **Inteligência Artificial (IA)**, **Machine Learning** e **Ciência de Dados**. Meu objetivo é aplicar o desenvolvimento de software para criar **soluções inteligentes e escaláveis**.
+Minha jornada profissional é marcada pela **adaptação e foco em soluções**. Embora tenha explorado áreas diversas, minha paixão se consolidou na **Tecnologia**, especificamente em **Inteligência Artificial (IA)**, **Machine Learning** e todo o ecossistema de **Dados**, incluindo análise, engenharia e ciência de dados. Meu objetivo é aplicar o desenvolvimento de software para criar **soluções inteligentes e escaláveis**.
 
 Atualmente, trabalho como **Analista de Automações e BI Júnior** (OOWE Company). Minhas atividades focam em:
 
 * **Agentes de IA & Engenharia de Prompt:** Colaboração no treinamento de **Agentes de Inteligência Artificial** e aplicação do rigor da **Engenharia de Prompt** em um contexto profissional.
 * **Integração de Sistemas:** Utilização de ferramentas como **N8N (ETL/Automação)** para otimizar processos operacionais e obter resultados.
-* **Foco em Resultados:** Minhas soluções são orientadas a impacto, incluindo o desenvolvimento de ferramentas que geraram **R$ 4.000,00 de economia** e aumentaram a eficiência da equipe comercial em **20%**.
+* **Foco em Resultados:** Minhas soluções são orientadas a impacto, incluindo o desenvolvimento de ferramentas que geraram **R$ 4.000,00 de economia** e automações que diminuíram trabalhos manuais em **50%**.
 
 <h2 align="center">Tecnologias & Foco de Estudo</h2>
 
@@ -32,7 +32,7 @@ Atualmente, trabalho como **Analista de Automações e BI Júnior** (OOWE Compan
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
 </div>
 
-<h4 align="center">Foco em: MLOps/LLMOps | LLMs (Conceitos) | Machine Learning | Desenvolvimento de Softwares | N8N</h4>
+<h4 align="center">Foco em: MLOps/LLMOps | LLMs (Conceitos) | Machine Learning | Data Engineering & Science | N8N</h4>
 
 ###
 
