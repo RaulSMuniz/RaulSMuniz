@@ -4,29 +4,30 @@
 
 <h2 align="center">Sobre Mim </h2>
 
-Minha jornada profissional é marcada pela **adaptação e foco em soluções**. Embora tenha explorado áreas diversas, minha paixão se consolidou na **Tecnologia**, especificamente em **Inteligência Artificial (IA)**, **Machine Learning** e todo o ecossistema de **Dados**, incluindo análise, engenharia e ciência de dados. Meu objetivo é aplicar o desenvolvimento de software para criar **soluções inteligentes e escaláveis**.
+Sou apaixonado por tecnologia, com uma jornada profissional marcada pela adaptação e foco na resolução de problemas reais. Atualmente, sou Desenvolvedor Fullstack (React, TypeScript e Node.js) na Pitang, desenvolvendo soluções e garantindo a excelência técnica através de testes de software. Além do desenvolvimento web, possuo interesses no ecossistema de Dados, explorando análises, Inteligência Artificial (IA) e Machine Learning. Meu objetivo principal é utilizar o desenvolvimento de software e a inteligência de dados para arquitetar soluções inteligentes e altamente escaláveis.
 
 <h2 align="center">Tecnologias & Foco de Estudo</h2>
 
 ###
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="tensorflow logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo" />
     <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="tensorflow logo" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
 </div>
 
-<h4 align="center">Foco em: MLOps/LLMOps | LLMs (Conceitos) | Machine Learning | Data Engineering & Science | Software Engineering com React, TypeScript & Node.js</h4>
+<h4 align="center">Foco em: Software Engineering com React, TypeScript, Node.js, Conceitos Fullstack, LLMs (Conceitos), & Data Science com Machine Learning e Data Engineering </h4>
 
 ###
 
